@@ -1,8 +1,6 @@
 /*
  * rex.cpp
  *
- *  Created on: Aug 23, 2020
- *      Author: rexsmacbook
  */
 #include <iostream>
 #include "rex.h"
