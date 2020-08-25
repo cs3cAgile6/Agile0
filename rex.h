@@ -1,8 +1,6 @@
 /*
  * rex.h
  *
- *  Created on: Aug 23, 2020
- *      Author: rexsmacbook
  */
 
 #ifndef REX_H_
