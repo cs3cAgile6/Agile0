@@ -1,6 +1,6 @@
 #include "paolo.h"
 
-void sayPaolo()
+void paolo()
 {
 	cout << "Paolo Galvez";
 }
