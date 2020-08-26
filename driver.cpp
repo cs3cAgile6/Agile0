@@ -6,7 +6,7 @@
 
 int main()
 {
-	cout << "The team members of Agile 6 are: ";
+	cout << "The team members of Agile 6 are: " << endl;
 	victor();
 	dennis();
 	rex();
