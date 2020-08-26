@@ -11,6 +11,6 @@
 
 using namespace std;
 
-void sayPaolo();
+void paolo();
 
 #endif /* PAOLO_H_ */
